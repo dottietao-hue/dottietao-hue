@@ -15,14 +15,20 @@ I enjoy extracting insights from data and helping businesses make impactful deci
 ### 🚀 Featured Projects
 
 **E-commerce Sales Analytics**
-- Ongoing project in september 2026
-- SQL + Python + Power BI
+- Ongoing project in September 2026
+- Python + Power BI
 - Customer, product, geographic and sales trend analysis
+  
+**Bike Store Relational Database Analytics**
+- Ongoing project in October 2026
+- SQL + Python
+- Store sales analytics
 
 **Crelan Credit Risk Challenge**
 - 15K+ credit records
 - Machine learning classification
 - AUC 0.82 on unseen data
+- Semi-finalist (rank 7 out of ~50 teams) 
 
 ### 🛠️ Tools & Technologies
 
