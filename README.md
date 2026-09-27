@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Dottie 👋
 
-<!--
-**dottietao-hue/dottietao-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data & Business Analyst | Data & AI Strategy
 
-Here are some ideas to get you started:
+I'm a Digital Business Engineering graduate with a background in consulting and a growing focus on data analytics, AI and digital transformation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy extracting insights from data and helping businesses make impactful decisions.
+
+### 🔍 What I'm working on
+
+- 📊 Data Analytics — Python, SQL, Power BI
+- 🤖 Machine Learning — scikit-learn, XGBoost
+- 💡 Data & AI Strategy — governance, transformation & business applications
+
+### 🚀 Featured Projects
+
+**E-commerce Sales Analytics**
+- Ongoing project in september 2026
+- SQL + Python + Power BI
+- Customer, product, geographic and sales trend analysis
+
+**Crelan Credit Risk Challenge**
+- 15K+ credit records
+- Machine learning classification
+- AUC 0.82 on unseen data
+
+### 🛠️ Tools & Technologies
+
+Python · SQL · Power BI · BigQuery · Git · dbt ·
+Pandas · scikit-learn · XGBoost
