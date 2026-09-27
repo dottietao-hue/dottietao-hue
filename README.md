@@ -26,5 +26,5 @@ I enjoy extracting insights from data and helping businesses make impactful deci
 
 ### 🛠️ Tools & Technologies
 
-Python · SQL · Power BI · BigQuery · Git · dbt ·
-Pandas · scikit-learn · XGBoost
+Python · SQL · Power BI · BigQuery · Git ·
+Pandas · scikit-learn
